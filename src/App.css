@@ -17,14 +17,6 @@ th, td {
   font-size: 22px;
 }
 
-th {
-  background-color: rgb(116, 138, 150);
-}
-
-td {
-  background-color: rgb(189, 247, 218);
-}
-
 form {
   display: flex;
   gap: 5px;
